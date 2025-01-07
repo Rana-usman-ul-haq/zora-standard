@@ -1,6 +1,14 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.24;
 
+/*
+
+Twitter: https://x.com/zoraerc?s=21
+Gitbook: https://zoraai.gitbook.io/zoraai
+Website: https://usezora.io/
+
+*/
+
 // File @openzeppelin/contracts/utils/Context.sol@v4.8.1
 
 // OpenZeppelin Contracts v4.4.1 (utils/Context.sol)
